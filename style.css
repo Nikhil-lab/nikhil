@@ -175,7 +175,7 @@ hr.light-100{
 
 @media(max-width:768px){
 
-    .carousal-caption{
+    .carousel-caption{
       
     position: absolute;
     top: 50%;
@@ -212,7 +212,7 @@ hr.light-100{
 
 @media(max-width:576px){
 
-    .carousal-caption{
+    .carousel-caption{
       
     position: absolute;
     top: 40%;
